@@ -3,7 +3,7 @@ package CodingChallenge2;
 public class Variables {
     void showInterest() {
         double amount;
-        double interest; // percentage
+        double interest; // percentage.
 
         amount = 1200.00;
         System.out.println("amount: " + amount);
