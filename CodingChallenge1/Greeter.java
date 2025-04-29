@@ -1,5 +1,5 @@
 package CodingChallenge1;
-//puts message on the screen
+//puts message on the screen.
 public class Greeter {
     void greet(){
         System.out.println("Hi there");
