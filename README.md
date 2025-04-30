@@ -1,7 +1,7 @@
 # Coding-Challenges-OOP-II
 
 # Student Info
-**Name:** Maina Tiffany Wanjiru
+**Name:** Maina Tiffany Wanjiru  
 **Student No:** 189592
 
 # Description
