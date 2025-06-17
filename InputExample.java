@@ -1,4 +1,4 @@
-package CodingChallenge4;
+// CodingChallenge4
 import java.util.Scanner;
 
 class InputExample {

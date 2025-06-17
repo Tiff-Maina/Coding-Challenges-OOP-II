@@ -1,4 +1,4 @@
-package CodingChallenge3;
+// CodingChallenge3
 
 import java.util.Scanner;
 public class Grades {
